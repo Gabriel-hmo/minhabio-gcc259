@@ -1,7 +1,9 @@
 # minhabio-gcc259
 ## Gabriel Henrique Moreira Oliveira
 
-**Endereço:** Rua Joaquim Antônio da Silva 105 Lavras 
+![user_image](https://user-images.githubusercontent.com/67070118/212794081-34803120-eb7b-4d1d-95dd-3a50fb117982.png)
+
+**Endereço:** Rua Joaquim Antônio da Silva Jardim das Alterosas Lavras
 
 **Telefone:** (31)98536-8965
 
